@@ -1,3 +1,4 @@
 # New Repo
 
-this repositories created in our local system
+This project created in our local system.
+created by jadeja mayurrajsinh.
